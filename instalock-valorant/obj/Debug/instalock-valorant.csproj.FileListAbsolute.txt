@@ -1,0 +1,8 @@
+E:\Coding\instalock-valorant\instalock-valorant\bin\Debug\instalock-valorant.exe.config
+E:\Coding\instalock-valorant\instalock-valorant\bin\Debug\instalock-valorant.exe
+E:\Coding\instalock-valorant\instalock-valorant\bin\Debug\instalock-valorant.pdb
+E:\Coding\instalock-valorant\instalock-valorant\obj\Debug\instalock-valorant.csproj.AssemblyReference.cache
+E:\Coding\instalock-valorant\instalock-valorant\obj\Debug\instalock-valorant.csproj.SuggestedBindingRedirects.cache
+E:\Coding\instalock-valorant\instalock-valorant\obj\Debug\instalock-valorant.csproj.CoreCompileInputs.cache
+E:\Coding\instalock-valorant\instalock-valorant\obj\Debug\instalock-valorant.exe
+E:\Coding\instalock-valorant\instalock-valorant\obj\Debug\instalock-valorant.pdb

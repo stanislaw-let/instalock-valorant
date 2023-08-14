@@ -1,7 +1,7 @@
 # instalock-valorant
   
-[!WARNING] 
-I DON'T KNOW IF IT'S BANNABLE, USE IT ON YOUR OWN RISK, I AM NOT RESPONSIBLE FOR BANS!
+> [!WARNING] 
+> I DON'T KNOW IF IT'S BANNABLE, USE IT ON YOUR OWN RISK, I AM NOT RESPONSIBLE FOR BANS!
 
 **How it works?** \
 When you launch program for the first time, you will need to enter following data:

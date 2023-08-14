@@ -10,4 +10,4 @@ When you launch program for the first time, you will need to enter following dat
 - Agent name
 - Keybind \
 Then, you choose 1, to continue (changing settings is in development), open Valorant, wait for match to load, and enter your keybind \
-**Disabling is a little bit buggy, so you will need to spam it :)**\
+### **Disabling is a little bit buggy, so you will need to spam it :)**

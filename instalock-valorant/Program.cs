@@ -134,8 +134,15 @@ namespace instalock_valorant
                 string userShortcut = settings[3];
 
                 if (userRatio == "16:9")
+                {
                     if (userRes == "1920x1080")
                         AgentLock();
+                    else
+                        Console.WriteLine("Sorry, at the moment only 16:9 1920x1080 is available");
+                }
+
+                else
+                    Console.WriteLine("Sorry, at the moment only 16:9 1920x1080 is available");
             }
         }
         static void Lock()
@@ -155,7 +162,7 @@ namespace instalock_valorant
              \ \ / /_ _| |___ _ _ __ _ _ _| |_   
               \ V / _` | / _ \ '_/ _` | ' \  _|  
                \_/\__,_|_\___/_| \__,_|_||_\__|  
-                                                         v1.0
+                                                         v1.1
 =============================================================
                    github.com/stanislaw-let
 =============================================================");
